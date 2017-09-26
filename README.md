@@ -1,29 +1,29 @@
 # Super-MLG-Bros
 A hilarious take on the original Super Mario Bros. 
 
-##How to play
+## How to play
 There are a lot of files missing in this repo. Here is the file directory of the original game: 
 
-Assembly-CSharp-vs.csproj
-Assembly-CSharp.csproj
-Assets/Animations.meta
-Assets/Animations/*
-Assets/Materials/*
-Assets/Prefabs/*
-Assets/Resources/Gifs/*
-Assets/Resources/Music/*
-Assets/Resources/Reactions/*
-Assets/Resources/Sounds/*
-Assets/Resources/Sprites/*
-Assets/Scenes/*
-Assets/System.Drawing.dll
-Library/*
-ProjectSettings/*
-Super Mario Bros-csharp.sln
-Super Mario Bros-csharp.v12.suo
-Super Mario Bros.sln
-Super Mario Bros.userprefs
-Super Mario Bros.v12.suo
+* Assembly-CSharp-vs.csproj
+* Assembly-CSharp.csproj
+* Assets/Animations.meta
+* Assets/Animations/*
+* Assets/Materials/*
+* Assets/Prefabs/*
+* Assets/Resources/Gifs/*
+* Assets/Resources/Music/*
+* Assets/Resources/Reactions/*
+* Assets/Resources/Sounds/*
+* Assets/Resources/Sprites/*
+* Assets/Scenes/*
+* Assets/System.Drawing.dll
+* Library/*
+* ProjectSettings/*
+* Super Mario Bros-csharp.sln
+* Super Mario Bros-csharp.v12.suo
+* Super Mario Bros.sln
+* Super Mario Bros.userprefs
+* Super Mario Bros.v12.suo
 
 **Some directories shortened for brevity**
 
